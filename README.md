@@ -1,5 +1,5 @@
 #### truenito means little thunder in Spanish ⚡
-#### Senior Ruby on Rails Developer.
+#### Software Engineering Manager.
 <!--
 **truenito/truenito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
